@@ -9,7 +9,6 @@
     "dev": "node build/server.js",
     "lint": "xo **/src/**/*.{vue,js} !node_modules/**"
   },
-  "author": "haydenbbickerton <haydenbbickerton@gmail.com>",
   "license": "MIT",
   "xo": {
     "extends": "./.eslintrc",
